@@ -1,4 +1,4 @@
-#isAuth Demo Project
+# isAuth Demo Project
 This is the demo for the [isAuth](https://github.com/spiderwebtr/isauth) Laravel package.
 ## 1- Clone this project
 ## 2- Install composer dependencies.
