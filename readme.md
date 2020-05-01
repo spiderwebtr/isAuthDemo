@@ -1,9 +1,11 @@
 # isAuth Demo Project
 This is the demo for the [isAuth](https://github.com/spiderwebtr/isauth) Laravel package.
+[![http://isauth.herokuapp.com/](demo.png)](http://isauth.herokuapp.com/)
+[DEMO](http://isauth.herokuapp.com/)
 ## 1- Clone this project
 ## 2- Install composer dependencies.
  ```bash
-composer install 
+composer install
 ```
 ## 3- Create a db
 ## 4- Configure .env file
